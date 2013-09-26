@@ -1,3 +1,26 @@
 html {
 	background-color: #e2e2e2;
 	font: normal 100%/1.4 Georgia, serif
+}
+
+.dino-list {
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+}
+
+.dino-list li {
+	float: left;
+	width: 25%;
+}
+
+
+.dino-list figure {
+	margin: 0;
+	padding: 0;
+}
+
+.dino-list img {
+	display: block;
+	width: 100%;
+}
