@@ -2,7 +2,7 @@
 name: Stegosaurus
 size: 9 m
 discovery: 1877
-discoverer:Othniel Charles Marsh
+discoverer: Othniel Charles Marsh
 period: Late Jurassic
 thumb: stegosaurus.jpg
 description: The *Stegosaurus* is best known for the large plates on its back and long spikes on its tail
